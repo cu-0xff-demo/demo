@@ -1,0 +1,5 @@
+vscode:
+  extensions:
+    - deepcode.deepcode@1.1.0:FwMmCJUQ4xQVQT8WmKe2BQ==
+image:
+  file: .gitpod.Dockerfile
